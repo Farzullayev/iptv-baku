@@ -35,6 +35,10 @@
 
 
 
+
+
+
+
   #EXTM3U
   #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Rusiya",5 канал
   http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -1134,7 +1138,7 @@
   https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
   #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-logo="https://i.imgur.com/5AiUlIJ.png" group-title="Türk",Vuslat TV (720p) [Not 24/7]
   http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
-  #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Türk"Culture;Education;,Woman TV (1080p)
+  #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Türk",Woman TV (1080p)
   https://embedlp.becdn.net/womantv.m3u8
   #EXTINF:-1 tvg-id="WorldTurkTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_151.png" group-title="Türk",World Turk TV (1080p)
   https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
