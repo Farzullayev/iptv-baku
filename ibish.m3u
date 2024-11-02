@@ -35,10 +35,6 @@
 
 
 
-
-
-
-
   #EXTM3U
   #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Rusiya",5 канал
   http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
