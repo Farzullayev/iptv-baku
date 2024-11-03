@@ -755,7 +755,7 @@
   http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
   #EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="Türk",Cine 1 (720p)
   https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-  #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Türk"M,Cine5 (720p)
+  #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Türk",Cine5 (720p)
   https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
   #EXTINF:-1 tvg-id="DehaTV.tr" tvg-logo="https://i.imgur.com/Dlsm9XP.png" group-title="Türk",Deha TV (720p) [Geo-blocked]
   https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
@@ -1160,7 +1160,7 @@
   https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
   #EXTINF:-1 tvg-id="Channel24.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="Ukrayna",24 Канал (1080p)
   https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-  #EXTINF:-1 tvg-id="100NEWS.ua" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukrayna"B,100% News (576p)
+  #EXTINF:-1 tvg-id="100NEWS.ua" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukrayna",100% News (576p)
   http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
   #EXTINF:-1 tvg-id="ATR.ua" tvg-logo="https://i.imgur.com/lRJAXC7.png" group-title="Ukrayna" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ATR (720p)
   #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
