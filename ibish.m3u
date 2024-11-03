@@ -127,7 +127,7 @@
   https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
   #EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Rusiya",Life TV (432p) [Not 24/7]
   http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Rusiya"utdoor",Love Nature (1080p)
+  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Rusiya",Love Nature (1080p)
   https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
   #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Rusiya",Luxe TV (1080p)
   https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
@@ -137,7 +137,7 @@
   https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
   #EXTINF:-1 tvg-id="MosObrTV.ru" tvg-logo="https://i.imgur.com/t6PmOD5.png" group-title="Rusiya",MOSOBR.TV (720p)
   http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-  #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Rusiya"lassic;M,Movify Kino (576p)
+  #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Rusiya",Movify Kino (576p)
   #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
   https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
   #EXTINF:-1 tvg-id="Multimania.lv" tvg-logo="https://i.imgur.com/J9Lwc0T.png" group-title="Rusiya",Multimania (Latvia) (576p)
@@ -154,7 +154,7 @@
   http://31.148.48.15/Nickelodeon/index.m3u8
   #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Rusiya",Nicktoons
   https://stream01.vnet.am/Boomerang/mono.m3u8
-  #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Rusiya"lassic",Nostalgia
+  #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Rusiya",Nostalgia
   http://91.205.199.3/nostalgia/index.m3u8
   #EXTINF:-1 tvg-id="PORTMONETV.ua" tvg-logo="https://i.imgur.com/BuMDgrN.png" group-title="Rusiya",PORT-MONE.TV (720p) [Not 24/7]
   https://ythls.armelin.one/channel/UC2XLtyLSZ3XSAxvULZoV23g.m3u8
