@@ -659,7 +659,7 @@
   http://stream0.tv41.ru/live.m3u8
   #EXTINF:-1 tvg-id="ElTR.kg" tvg-logo="https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png" group-title="Rusiya",ЭлТР (480p) [Not 24/7]
   http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
-  #EXTINF:-1 tvg-id="BilimIlim.kg" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" group-title="Rusiya"ids;Science",ЭлТР Билим Илим (480p) [Not 24/7]
+  #EXTINF:-1 tvg-id="BilimIlim.kg" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" group-title="Rusiya",ЭлТР Билим Илим (480p) [Not 24/7]
   http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
   #EXTINF:-1 tvg-id="EchoTV.ru" tvg-logo="https://i.imgur.com/YWKJA1O.png" group-title="Rusiya",Эхо TV (Рязань) (576p) [Not 24/7]
   https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -811,7 +811,7 @@
   https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
   #EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="https://i.imgur.com/TwqIJwo.png" group-title="Türk",Gonca TV (720p)
   https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
-  #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Türk"M,Grand Cinema
+  #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Türk",Grand Cinema
   https://gcinemahls.wns.live/hls/stream.m3u8
   #EXTINF:-1 tvg-id="GRT.tr" tvg-logo="https://i.imgur.com/eRR0gkC.png" group-title="Türk",GRT (900p)
   https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
@@ -919,7 +919,7 @@
   https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
   #EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="Türk",Line TV (720p) [Not 24/7]
   https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
-  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Türk"Outdoor",Love Nature (1080p)
+  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Türk" ,Love Nature (1080p)
   https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
   #EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-logo="https://i.imgur.com/wyWappU.png" group-title="Türk",MaviKaradeniz (1080p) [Not 24/7]
   https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
@@ -1287,7 +1287,7 @@
   #EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-logo="https://i.imgur.com/gvgFoFB.png" group-title="Ukrayna" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
   #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
   https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
-  #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Ukrayna"L,Рада ТВ (1080p) [Not 24/7]
+  #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Ukrayna",Рада ТВ (1080p) [Not 24/7]
   https://ythls.armelin.one/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
   #EXTINF:-1 tvg-id="Svarozhychy.ua" tvg-logo="https://i.imgur.com/VnAgQA4.png" group-title="Ukrayna",Сварожичи (720p)
   http://80.91.177.102:1935/live/live1/playlist.m3u8
