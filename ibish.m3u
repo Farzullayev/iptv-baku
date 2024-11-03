@@ -691,7 +691,7 @@
   https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8
   #EXTINF:-1 tvg-id="AfyonTurkTV.tr" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="Türk",Afyon Türk TV (720p)
   https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-  #EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Türk"Education;Outdoor",Agro TV (1080p)
+  #EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Türk",Agro TV (1080p)
   https://yayin30.haber100.com/live/agrotv/playlist.m3u8
   #EXTINF:-1 tvg-id="AhiTV.tr" tvg-logo="https://i.imgur.com/5LIIZct.png" group-title="Türk",Ahi TV Kirsehir (576p)
   http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
@@ -1167,7 +1167,7 @@
   https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
   #EXTINF:-1 tvg-id="Avers.ua" tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Ukrayna",Avers (480p)
   https://avers.pp.ua/hls/efir.m3u8
-  #EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="Ukrayna"Travel",BamBarBia TV (720p) [Not 24/7]
+  #EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="Ukrayna",BamBarBia TV (720p) [Not 24/7]
   http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
   #EXTINF:-1 tvg-id="BelsatTV.pl" tvg-logo="https://i.imgur.com/JUrKfq9.png" group-title="Ukrayna",Belsat TV (1080p)
   https://irylek.ct8.pl/stream/belsat
@@ -1316,7 +1316,6 @@
   https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
   #EXTINF:-1 tvg-id="ChPinfo.ua" tvg-logo="https://i.imgur.com/2cYzroj.png" group-title="Ukrayna",ЧП Инфо (576p)
   http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
-
 
 
 
