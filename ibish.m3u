@@ -1173,7 +1173,7 @@
   https://irylek.ct8.pl/stream/belsat
   #EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="Ukrayna",Black Sea TV (432p)
   https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
-  #EXTINF:-1 tvg-id="Bolt.ua" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Ukrayna"M user-agent="ExoPlayer2/2.37",Bolt
+  #EXTINF:-1 tvg-id="Bolt.ua" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Ukrayna" user-agent="ExoPlayer2/2.37",Bolt
   #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
   https://edge02.odtv.az/o4/mtvhits/playlist.m3u8
   #EXTINF:-1 tvg-id="Channel7Ukraine.ua" tvg-logo="https://i.imgur.com/9Ll0BIo.png" group-title="Ukrayna",Channel 7 Ukraine (720p)
@@ -1184,7 +1184,7 @@
   http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
   #EXTINF:-1 tvg-id="DumskayaTV.ua" tvg-logo="https://i.imgur.com/cSTLg5w.png" group-title="Ukrayna",Dumskaya TV (720p)
   http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-  #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Ukrayna"L,EbS Live (Europe by Satellite) (1080p)
+  #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Ukrayna",EbS Live (Europe by Satellite) (1080p)
   https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
   #EXTINF:-1 tvg-id="EspresoTV.ua" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="Ukrayna",Espreso TV (1080p) [Not 24/7]
   https://ythls.armelin.one/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
@@ -1316,6 +1316,7 @@
   https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
   #EXTINF:-1 tvg-id="ChPinfo.ua" tvg-logo="https://i.imgur.com/2cYzroj.png" group-title="Ukrayna",ЧП Инфо (576p)
   http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
 
 
 
