@@ -67,157 +67,157 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 ===========================================================AZERBAIJAN2==============================================
 
 
-#EXTINF:1   tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",AzTV
+#EXTINF:1   tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:1   tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",AzTV-2
+#EXTINF:1   tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",AzTV-2
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
-#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MƏdƏniyyƏt TV
+#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MƏdƏniyyƏt TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MƏdƏniyyƏt TV-2
+#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MƏdƏniyyƏt TV-2
 http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MƏdƏniyyƏt TV-3
+#EXTINF:1   tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MƏdƏniyyƏt TV-3
 http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İdman TV
+#EXTINF:1   tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İdman TV
 https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-#EXTINF:1   tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İdman TV-2
+#EXTINF:1   tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İdman TV-2
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İctimai TV
+#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İctimai TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İctimai TV HD
+#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İctimai TV HD
 http://str.yodacdn.net/ictimai/index.m3u8
-#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İctimai TV HD-2
+#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İctimai TV HD-2
 https://hw2.jemtv.com/app/ict/playlist.m3u8
-#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",İctimai TV HD-3
+#EXTINF:1   tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",İctimai TV HD-3
 http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Azad Azərbaycan HD
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Azad Azərbaycan HD
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Azad Azərbaycan HD-2
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Azad Azərbaycan HD-2
 https://hw2.jemtv.com/app/azad/playlist.m3u8
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Azad Azərbaycan HD-3
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Azad Azərbaycan HD-3
 http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Azad Azərbaycan HD-4
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Azad Azərbaycan HD-4
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ATV CINEMA
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ATV CINEMA
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ATV CINEMA-2
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ATV CINEMA-2
 http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/2120/index.m3u8
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ATV VIVACE
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ATV VIVACE
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16068/index.m3u8
-#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ATV VIVACE-2
+#EXTINF:1   tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ATV VIVACE-2
 http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/16068/index.m3u8
-#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ARB HD
+#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ARB HD
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ARB HD-2
+#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ARB HD-2
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
-#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ARB HD-3
+#EXTINF:1   tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ARB HD-3
 http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 Azərbaycan  Bütün",ARB Günəş
+#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 Azərbaycan Bütün",ARB Günəş
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 Azərbaycan  Bütün",ARB Günəş-2
+#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 Azərbaycan Bütün",ARB Günəş-2
 http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="🇦🇿 Azərbaycan  Bütün",ARB 24 HD
+#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="🇦🇿 Azərbaycan Bütün",ARB 24 HD
 http://str.yodacdn.net/arb24/index.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="🇦🇿 Azərbaycan  Bütün",ARB 24 HD-2
+#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="🇦🇿 Azərbaycan Bütün",ARB 24 HD-2
 http://185.32.44.154/arb24/index.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="🇦🇿 Azərbaycan  Bütün",ARB 24 HD-3
+#EXTINF:1   tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="🇦🇿 Azərbaycan Bütün",ARB 24 HD-3
 http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="🇦🇿 Azərbaycan  Bütün",Kəpəz TV
+#EXTINF:1   tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="🇦🇿 Azərbaycan Bütün",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:1   tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="🇦🇿 Azərbaycan  Bütün",Kanal S
+#EXTINF:1   tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="🇦🇿 Azərbaycan Bütün",Kanal S
 http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
-#EXTINF:1   tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="🇦🇿 Azərbaycan  Bütün",Kanal S-2
+#EXTINF:1   tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="🇦🇿 Azərbaycan Bütün",Kanal S-2
 http://88.99.66.6:8080/str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Xəzər TV HD
+#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Xəzər TV HD
 http://str.yodacdn.net/xazar/index.m3u8
-#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Xəzər TV HD-2
+#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Xəzər TV HD-2
 http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Xəzər TV HD-3
+#EXTINF:1   tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Xəzər TV HD-3
 http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Space TV
+#EXTINF:1   tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Space TV
 http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Space TV-2
+#EXTINF:1   tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Space TV-2
 http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="🇦🇿 Azərbaycan  Bütün",Muz TV
+#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="🇦🇿 Azərbaycan Bütün",Muz TV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Real TV HD
+#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Real TV HD
 http://str.yodacdn.net/real/index.m3u8
-#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Real TV HD-2
+#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Real TV HD-2
 http://185.32.44.154/realtv/index.m3u8
-#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Real TV HD-3
+#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Real TV HD-3
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
-#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Real TV HD-4
+#EXTINF:1   tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Real TV HD-4
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1   tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg
-#EXTINF:1   tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",TMB AZ TV-2
+#EXTINF:1   tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",TMB AZ TV-2
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",AYAZ TV
+#EXTINF:1   tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
-#EXTINF:1   tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Azad Söz Az TV
+#EXTINF:1   tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
-#EXTINF:1   tvg-id="tv.sia.az" tvg-logo="https://yt3.googleusercontent.com/-ays53iYsCs3dxZBG9MCqspOhMmWCLrG0O5EhQ6ug_ZHtQXRAPBylQgYn_UUNj9kVodMFx9HDA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Səs TV
+#EXTINF:1   tvg-id="tv.sia.az" tvg-logo="https://yt3.googleusercontent.com/-ays53iYsCs3dxZBG9MCqspOhMmWCLrG0O5EhQ6ug_ZHtQXRAPBylQgYn_UUNj9kVodMFx9HDA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Səs TV
 http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
-#EXTINF:1   tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",AGRO TV Azərbaycan
+#EXTINF:1   tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
-#EXTINF:1   tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",AGRO TV Azərbaycan-2
+#EXTINF:1   tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",AGRO TV Azərbaycan-2
 http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",SƏHƏR TV
+#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",SƏHƏR TV
 https://hw2.jemtv.com/app/azeri/playlist.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Vilayət TV
+#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Vilayət TV
 https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MCJ TV Shopping
+#EXTINF:1   tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MCJ TV Shopping
 http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
-#EXTINF:1   tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",VIP Azerbaijan
+#EXTINF:1   tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",VIP Azerbaijan
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
-#EXTINF:1   tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",VIP Azerbaijan-2
+#EXTINF:1   tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",VIP Azerbaijan-2
 http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1   tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",K@TV 1
+#EXTINF:1   tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",K@TV 1
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
-#EXTINF:1   tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",K@TV 1
+#EXTINF:1   tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",K@TV 1
 http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
-#EXTINF:1   tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Esma TV
+#EXTINF:1   tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",TTV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",TTV
 https://tivi191.ozelip.com:3016/stream/play.m3u8
-#EXTINF:1   tvg-id="İsmayıllı TV" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",TTV SINEMA
+#EXTINF:1   tvg-id="İsmayıllı TV" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",TTV SINEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",TTV KIDS
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",TTV KIDS
 https://ttvkids.efir.com.tr:3014/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/7gdqyb4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",NEW TV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/7gdqyb4.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",NEW TV
 https://tivi191.ozelip.com:3745/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Ulduz TV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Ulduz TV
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",ŞİRVAN TV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",ŞİRVAN TV
 https://sirvantv.efir.com.tr:3369/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",DALĞA TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",DALĞA TV
 https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",RİHAT TV
+#EXTINF:1   tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",RİHAT TV
 https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MEGA TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MEGA TV
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MEGA-2 TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MEGA-2 TV
 https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",MEGA MUSIC TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",MEGA MUSIC TV
 https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Sərxan TV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Sərxan TV
 https://stvaz.efir.com.tr:3815/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",HTV SİNEMA
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",HTV SİNEMA
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Arı Music TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Arı Music TV
 https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Arı Muğam TV
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
-#EXTINF:1   tvg-id="CTV" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",CTV
+#EXTINF:1   tvg-id="CTV" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",CTV
 https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",CTV Uşaq
+#EXTINF:1   tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",CTV Uşaq
 https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Sirius TV
+#EXTINF:1   tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Şahdağ Camera 1
+#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Şahdağ Camera 1
 https://user85481.clients-cdnnow.ru/hls/user85481_1/index.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Şahdağ Camera 2
+#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Şahdağ Camera 2
 https://user85481.clients-cdnnow.ru/hls/user85481_2/index.m3u8
-#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan  Bütün",Şahdağ Camera 3
+#EXTINF:1   tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 Azərbaycan Bütün",Şahdağ Camera 3
 https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
 
 
