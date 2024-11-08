@@ -6645,7 +6645,7 @@ http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 
 
- #EXTINF:-1 tvg-name="+TV" group-title="Разное",+TV [720x576]
+#EXTINF:-1 tvg-name="+TV" group-title="Разное",+TV [720x576]
 
 http://178.124.179.122:8088/PlusTV/index.m3u8
 #EXTINF:-1 tvg-name="10 канал (Новокузнецк)" group-title="Разное",10 канал (Новокузнецк) [1920x1080]
