@@ -2,7 +2,7 @@
 
 ==================================Azerbaijan==================================
 
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
+#EXTINF:-1 group-title="Azerbaijan Channels;ass",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
 http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
