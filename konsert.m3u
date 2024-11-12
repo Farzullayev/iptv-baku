@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
 
-#EXTINF:-1 tvg-ID="UK | BBC 1 SD" tvg-name="UK | BBC 1 SD" group-title="UK | Entertainment",UK | BBC 1 SD
+#EXTINF:-1 tvg-name="UK | BBC 1 SD" group-title="UK | Entertainment",UK | BBC 1 SD
 https://www.youtube.com/watch?v=yNYjNIK2KQM
 
 
