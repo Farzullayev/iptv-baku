@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="playlist", Azerbaijan
 #EXTSIZE: Medium
-https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/Azerbaijan/fiction.m3u
+https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/Azerbaijan/main.m3u
 #EXTINF:0 type="playlist", Turkish
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/main.m3u
