@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="playlist", Canlı Tv
 #EXTSIZE: Medium
-https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/livetv/tv.m3u
+https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/livetv/tv.m3u
 #EXTINF:0 type="playlist", Filmlər
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/main.m3u
