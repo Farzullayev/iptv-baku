@@ -2,6 +2,6 @@
 #EXTINF:0 type="playlist", Azerbaijan
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/Azerbaijan/main.m3u
-#EXTINF:0 type="playlist", Turkish
+#EXTINF:0 type="playlist", Yoxlama 
 #EXTSIZE: Medium
-https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/main.m3u
+https://raw.githubusercontent.com/Farzullayev/iptv-baku/refs/heads/main/movies/Yoxlama/main.m3u
